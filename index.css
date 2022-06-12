@@ -89,10 +89,9 @@ label{
 }
 
 input.guess{
-    position: absolute;
-/* background-color: black;
+background-color: black;
 color: white;
-border: red solid 3px; */
+border: red solid 2px;
 }
 
 .guessSubmit{
