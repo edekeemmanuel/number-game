@@ -88,6 +88,11 @@ label{
     font-weight: bolder;
 }
 
+.guess{
+background-color: black;
+color: white;
+}
+
 .guessSubmit{
     border-radius: 10px;
     color: rgb(255, 255, 255);
