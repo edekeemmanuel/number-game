@@ -91,6 +91,7 @@ label{
 .guess{
 background-color: black;
 color: white;
+border: white solid 3px;
 }
 
 .guessSubmit{
